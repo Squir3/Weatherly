@@ -1,12 +1,11 @@
-@import './base.css';
+/* frontend/src/assets/main.css */
+@import "./base.css";
 
-#app {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  font-weight: normal;
+/* Removed conflicting display properties */
+
+body {
+  background-color: #f0f2f5;
 }
-
 a,
 .green {
   text-decoration: none;
@@ -21,15 +20,9 @@ a,
   }
 }
 
+/* Removed grid layout to prevent conflicts */
 @media (min-width: 1024px) {
-  body {
-    display: flex;
-    place-items: center;
-  }
-
   #app {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
     padding: 0 2rem;
   }
 }
