@@ -11,6 +11,11 @@ Weatherly is a web application that allows users to view current weather data fo
 - **Responsive Design**: The application is designed to work on both desktop and mobile devices.
 - **Theme Switching**: Users can switch between light and dark themes for a better user experience.
 
+## Screenshots
+![chrome_7BM8NZsTeN](https://github.com/user-attachments/assets/24c00a81-f4ed-4fcb-a243-2f2b3b36c91f)
+![chrome_s1hoMBq4YD](https://github.com/user-attachments/assets/8b1efabf-f26a-4fa9-824b-96461b6e37f4)
+
+
 ## Installation locally
 
 1. Clone the repository:
